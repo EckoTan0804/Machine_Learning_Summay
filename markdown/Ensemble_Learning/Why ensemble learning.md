@@ -11,8 +11,8 @@ thus, this technique is called **Ensemble Learning**,
 and an Ensemble Learning algorithm is called an **Ensemble method**.
 
 Popular Emsemble methods:
-- Bagging and Pasting
-- Boosting
+- [Bagging and Pasting](https://nbviewer.jupyter.org/github/EckoTan0804/Summary-machine_learning/blob/master/notebook/Ensemble_Learning/Bagging_and_Pasting.ipynb)
+- [Boosting](https://nbviewer.jupyter.org/github/EckoTan0804/Summary-machine_learning/blob/master/notebook/Ensemble_Learning/Boosting.ipynb)
 - stacking
-- Voting Classifier
+- [Voting Classifier](https://nbviewer.jupyter.org/github/EckoTan0804/Summary-machine_learning/blob/master/notebook/Ensemble_Learning/Voring_Classifier.ipynb)
 
