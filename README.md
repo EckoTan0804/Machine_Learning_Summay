@@ -45,7 +45,9 @@ View them as:
   - [Random Forest](https://nbviewer.jupyter.org/github/EckoTan0804/Summary-machine_learning/blob/master/notebook/Ensemble_Learning/Random_Forest.ipynb)
   - [Voting Classifier](https://nbviewer.jupyter.org/github/EckoTan0804/Summary-machine_learning/blob/master/notebook/Ensemble_Learning/Voring_Classifier.ipynb)
 
-
+- Non-Parametric
+  - [Linear Discriminant Function](https://nbviewer.jupyter.org/github/EckoTan0804/Summary-machine_learning/blob/master/notebook/Non_parametric/Linear_Discriminant_Functions.ipynb)
+  - [Linear Discriminant Analysis](https://nbviewer.jupyter.org/github/EckoTan0804/Summary-machine_learning/blob/master/notebook/Non_parametric/LDA.ipynb)
 
 ## Reference
 
